@@ -1,0 +1,73 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+header {
+  text-align: center;
+}
+
+.Sottotiolo{
+  color: #00FF00;
+}
+
+nav {
+  text-align: center;
+}
+
+
+.nomimonopattino {
+  color: white;
+}
+
+.testo {
+  color: white;
+}
+
+.container {
+  width: 1000px;
+  margin:auto;
+  padding: 50px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 10px;
+}
+
+.logo {
+  width: 200px;
+}
+
+nav {
+  background-color: #00FF00;
+  padding: 10px;
+}
+
+.StatoCarica1 {
+  background-color: orange;
+  color: orange;
+  width: 40%;
+  height: 25px;
+  margin: 1px solid black;
+  border-radius: 3px;
+}
+
+.StatoCarica2 {
+  background-color: green;
+  color: green;
+  width: 60%;
+  height: 25px;
+  margin: 1px solid black;
+  border-radius: 3px;
+}
+
+.StatoCarica3 {
+  background-color: red;
+  color: red;
+  width: 20%;
+  height: 25px;
+  margin: 1px solid black;
+  border-radius: 3px;
+}
+
+* {
+  font-family: 'Lato', sans-serif;
+}
